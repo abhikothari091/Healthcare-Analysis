@@ -11,7 +11,6 @@ This project focuses on predicting patient stay duration using neural networks. 
 - [Modeling Approach](#modeling-approach)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
